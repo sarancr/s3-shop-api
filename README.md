@@ -1,0 +1,1 @@
+# jersey-hibernate-jetty-starter
