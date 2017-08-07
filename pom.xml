@@ -4,13 +4,13 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.api</groupId>
-    <artifactId>jersey-hibernate-jetty-starter</artifactId>
+    <artifactId>s3-shop-api</artifactId>
     <packaging>war</packaging>
     <version>0.0.1-SNAPSHOT</version>
-    <name>jersey-hibernate-jetty-starter</name>
+    <name>s3-shop-api</name>
 
     <build>
-        <finalName>jersey-hibernate-jetty-starter</finalName>
+        <finalName>s3shopapi</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
