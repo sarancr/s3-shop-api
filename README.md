@@ -1,1 +1,1 @@
-# jersey-hibernate-jetty-starter
+# s3-shop-API based on Jersey Hibernate
